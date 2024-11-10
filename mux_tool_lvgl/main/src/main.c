@@ -81,7 +81,7 @@ void all_page_init(void)
     page_create_new_page("osc_page", page_set_default_screen, 0, osc_page_init, osc_page_exit, 0);
     page_create_new_page("uart_page", page_set_default_screen, 0, uart_page_init, uart_page_exit, 0);
     page_create_new_page("iic_page", page_set_default_screen, 0, iic_page_init, iic_page_exit, 0);
-    page_create_new_page("usbmk_pages", page_set_default_screen, 0, usbmk_page_init, usbmk_page_exit, 0);
+    page_create_new_page("usbmk_page", page_set_default_screen, 0, usbmk_page_init, usbmk_page_exit, 0);
     page_create_new_page("game2048_page", page_set_default_screen, 0, game2048_page_init, game2048_page_exit, 0);
     page_create_new_page("audio_page", page_set_default_screen, 0, audio_page_init, audio_page_exit, 0);
     page_create_new_page("mlx_page", page_set_default_screen, 0, mlx_page_init, mlx_page_exit, 0);
