@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "lvgl_page.h": "c",
+        "lvgl.h": "c",
+        "lv_demos.h": "c",
+        "main_page.h": "c",
+        "lv_init.h": "c",
+        "lvgl_page_ctrl.h": "c",
+        "arm_ctrl_page.h": "c",
+        "stdio.h": "c",
+        "osc_page.h": "c",
+        "uart_page.h": "c",
+        "lv_string.h": "c",
+        "audio_page.h": "c",
+        "elec_page.h": "c",
+        "classify_page.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "signal_page.h": "c",
+        "math.h": "c",
+        "nes_page.h": "c",
+        "string.h": "c",
+        "malloc.h": "c",
+        "nes_main.h": "c",
+        "nes_type.h": "c",
+        "nes_rom.h": "c",
+        "ratio": "c",
+        "stdlib.h": "c",
+        "enter_page.h": "c"
+    }
+}
